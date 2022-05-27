@@ -3,6 +3,9 @@
 # Git repo link
 ### [ https://github.com/Poorvi-HC/ISS_Assignment_1_2021113004](https://github.com/Poorvi-HC/ISS_Assignment_2021113004)
 
+# Questions
+### [https://github.com/Poorvi-HC/ISS_Assignment_2021113004/blob/main/Questions_pdf.pdf]
+
 ## Question 1
 
 ### 1. Submitted in 2 .sh files (q1.sh and q2.sh)
